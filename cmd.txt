@@ -1,0 +1,1 @@
+OUTPUT_DIR=../SimKGC/wn18rr/ WNAME=123 bash scripts/hmt_train_wn.sh
